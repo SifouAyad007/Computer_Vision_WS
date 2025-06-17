@@ -1,6 +1,6 @@
 ## Computer vision repository : 
 
-Please find the workshope with colab links below : 
+Please find the workshops with colab links below : 
 
 
 - WS2 : https://colab.research.google.com/drive/1KsOqMjARBtL0mylc_p9vPvkH7u1z3LSM?usp=sharing 
